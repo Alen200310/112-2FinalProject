@@ -1,4 +1,5 @@
 <mxfile host="65bd71144e">
+<<<<<<< HEAD
     <diagram id="iutPq8jkpyhOyqurHaE-" name="第1頁">
         <mxGraphModel dx="615" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
@@ -243,6 +244,13 @@
                 <mxCell id="111" value="發送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="1480" y="281.67" width="50" height="30" as="geometry"/>
                 </mxCell>
+=======
+    <diagram id="_fVOy9Ix1KOPBVzKsTe5" name="第1頁">
+        <mxGraphModel dx="1143" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+>>>>>>> 114
             </root>
         </mxGraphModel>
     </diagram>
