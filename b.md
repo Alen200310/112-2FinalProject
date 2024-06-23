@@ -49,53 +49,53 @@
 交互參照:申請會員填寫資料
 前置條件:用戶選擇申請
 後置條件:登入會員
-![alt text](image1.png)
+![alt text](./img/image1.png)
 
 合約2:File upload operation()
 操作:File upload operation()
 交互參照:通過審核允許上傳
 前置條件:選擇上傳檔案
 後置條件:作品已上架展示
-![alt text](image2.png)
+![alt text](./img/image2.png)
 
 合約3:View file operations()
 操作:View file operations()
 交互參照:檢視插畫家的作品
 前置條件:瀏覽並點選喜歡的作品
 後置條件:放大觀看作品
-![alt text](image3.png)
+![alt text](./img/image3.png)
 
 合約4:Comment on assignment()
 操作:Comment on assignment()
 交互參照:瀏覽作品並評論
 前置條件:已登入會員並觀看圖片在下方留言
 後置條件:留言成功任何人都能讀取評論
-![alt text](image4.png)
+![alt text](./img/image4.png)
 
 合約5:Collection of works
 操作:Collection of works
 交互參照:收藏作品
 前置條件:擁有會員身分點選收藏
 後置條件:收藏進收藏資料夾
-![alt text](image5.png)
+![alt text](./img/image5.png)
 
 合約6:User deactivates job
 操作:User deactivates job
 交互參照:用戶觸犯不當行為
 前置條件:會員身分違反規則
 後置條件:會員身分刪除並給予通知
-![alt text](image6.png)
+![alt text](./img/image6.png)
 
 合約7:Publishing information operations
 操作:Publishing information operations
 交互參照:讓所有人都能看到廣告
 前置條件:給予金錢並要求曝光廣告內容
 後置條件:達成協議收取金錢並曝光廣告
-![alt text](image7.png)
+![alt text](./img/image7.png)
 
 合約8:Update maintenance jobs
 操作:Update maintenance jobs
 交互參照:平台進行系統更新和維護
 前置條件:平台中有錯誤或新增
 後置條件:暫時停止瀏覽平台
-![alt text](image8.png)
+![alt text](./img/image8.png)
